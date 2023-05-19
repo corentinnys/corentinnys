@@ -1,8 +1,17 @@
-### Hi My name is Corentin nys, i m junior developer at Becode 👋
+### Hi My name is Corentin nys, i m junior developer in formation at Becode 👋
+
+
 
 
 I am currently learning some languages ​​and frameworks such as react, flutter, node.js and no sql databases
 
+
+
+
+
+here are the links to my social networks
+
+[![](assets/LinkedIn_logo.png)](https://www.linkedin.com/in/corentin-nys-649390b2/)
 <!--
 **corentinnys/corentinnys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
