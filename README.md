@@ -1,5 +1,8 @@
 ### Hi My name is Corentin nys, i m junior developer at Becode 👋
 
+
+I am currently learning some languages ​​and frameworks such as react, flutter, node.js and no sql databases
+
 <!--
 **corentinnys/corentinnys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
