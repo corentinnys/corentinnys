@@ -1,15 +1,26 @@
-### Hi My name is Corentin nys, i m junior developer in formation at Becode 👋
+### Hello My name is Corentin nys, i m junior developer in formation at Becode 👋
 
 
 
 
-I am currently learning some languages ​​and frameworks such as react, flutter, node.js and no sql databases
+I am currently learning some languages ​​and frameworks such as :
+* React
+* flutter
+* node.js 
+* no sql databases
+
+
+my technical skills :
+* Javascript
+* Php (Laravel)
+* Html 5 - Css 3
+* Sql - Mysql
 
 
 
 
 
-here are the links to my social networks
+find me everywhere
 
 [<img src='assets/LinkedIn_logo.png' width='50px' height='50px'>](https://www.linkedin.com/in/corentin-nys-649390b2/)
 <!--
