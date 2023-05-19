@@ -11,7 +11,7 @@ I am currently learning some languages ​​and frameworks such as react, flutt
 
 here are the links to my social networks
 
-[![](assets/LinkedIn_logo.png=50x50)](https://www.linkedin.com/in/corentin-nys-649390b2/)
+[![](<img src='assets/LinkedIn_logo.png' width='50px' height='50px')](https://www.linkedin.com/in/corentin-nys-649390b2/)
 <!--
 **corentinnys/corentinnys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
